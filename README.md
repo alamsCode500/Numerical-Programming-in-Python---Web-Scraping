@@ -1,5 +1,5 @@
 # 🎬 Web Scraping & Data Analysis Project – JustWatch
-Python | Selenium | BeautifulSoup | Pandas
+Python | BeautifulSoup | Pandas
 
 # 👋 Project Overview
 
@@ -19,104 +19,106 @@ I scraped movies and TV shows data from JustWatch India (without using APIs) and
 JustWatch aggregates movies and TV shows across multiple OTT platforms.
 The goal was to:
 
-Extract structured data directly from HTML pages
+* Extract structured data directly from HTML pages
 
-Handle dynamic and inconsistent web content
+* Handle dynamic and inconsistent web content
 
-Filter and analyze entertainment data using real business rules
+* Filter and analyze entertainment data using real business rules
 
 # 🔧 Tech Stack & Tools
 
-Python
+* Python
 
-Requests
+* Requests
 
-BeautifulSoup
+* BeautifulSoup
 
-Pandas & NumPy
+* Pandas & NumPy
 
-Regular Expressions
+* Regular Expressions
 
-Datetime module
+* Datetime module
 
-Google Colab
+* Google Colab
 
 # 📊 Data Scraped (No APIs Used)
 # 🎥 Movies (50+)
 
-Title
+* Title
 
-Release Year
+* Release Year
 
-Genre
+* Genre
 
-IMDb Rating
+* IMDb Rating
 
-Runtime
+* Runtime
 
-Age Rating
+* Age Rating
 
-Production Country
+* Production Country
 
-Streaming Platforms
+* Streaming Platforms
 
-JustWatch URL
+* JustWatch URL
 
 # 📺 TV Shows (50+)
 
-Title
+* Title
 
-Release Year
+* Release Year
 
-Genre
+* Genre
 
-IMDb Rating
+* IMDb Rating
 
-Runtime
+* Runtime
 
-Age Rating
+* Age Rating
 
-Production Country
+* Production Country
 
-Streaming Platforms
+* Streaming Platforms
 
-JustWatch URL
+* JustWatch URL
 
-# ✔ Total Records: 100+ titles
+✔ Total Records: 100+ titles
 
 # ⚙️ Key Features & Highlights
+
 # 🔹 Robust Web Scraping
 
-HTML parsing using BeautifulSoup
+* HTML parsing using BeautifulSoup
 
-Custom headers to avoid blocking
+* Custom headers to avoid blocking
 
-Graceful handling of missing fields
+* Graceful handling of missing fields
 
-Try–except based error handling
+* Try–except based error handling
 
 # 🔹 Data Cleaning & Structuring
 
-Converted raw scraped data into clean Pandas DataFrames
+* Converted raw scraped data into clean Pandas DataFrames
 
-Handled None, missing ratings, and inconsistent formats
+* Handled None, missing ratings, and inconsistent formats
 
-Merged Movies & TV Shows into a unified dataset
+* Merged Movies & TV Shows into a unified dataset
 
 # 📈 Data Filtering & Analysis
+
 # 🎯 Filtering Criteria
 
-Only titles released in the last 2 years
+* Only titles released in the last 2 years
 
-Only titles with IMDb rating ≥ 7
+* Only titles with IMDb rating ≥ 7
 
 # 📊 Analysis Performed
 
-# ⭐ Average IMDb rating:
+* ⭐ Average IMDb rating:
 
-* Movies: 6.78
+* * Movies: 6.78
 
-* TV Shows: 7.67
+* * TV Shows: 7.67
 
 * 🎭 Top 5 Genres by availability
 
@@ -126,35 +128,25 @@ Only titles with IMDb rating ≥ 7
 
 # 📂 Output & Deliverables
 
-✅ Cleaned & filtered dataset exported as CSV
+* ✅ Cleaned & filtered dataset exported as CSV
 
-✅ Dataset stored in Google Drive
+* ✅ Dataset stored in Google Drive
 
-✅ Shareable Drive link included in the notebook
+* ✅ Shareable Drive link included in the notebook
 
-✅ Fully executable Colab notebook (single run)
-
-# 📌 Relevant for roles like:
-
-Data Analyst
-
-Data Scientist
-
-Python Developer
-
-Data Engineer (Entry Level)
+* ✅ Fully executable Colab notebook (single run)
 
 # 🧠 Key Learnings
 
-Scraping dynamic content safely and ethically
+* Scraping dynamic content safely and ethically
 
-Writing reusable, modular scraping functions
+* Writing reusable, modular scraping functions
 
-Handling missing and inconsistent web data
+* Handling missing and inconsistent web data
 
-Applying business rules to real datasets
+* Applying business rules to real datasets
 
-Turning raw data into actionable insights
+* Turning raw data into actionable insights
 
 # 👤 Author
 
