@@ -128,13 +128,13 @@ The goal was to:
 
 # 📂 Output & Deliverables
 
-* ✅ Cleaned & filtered dataset exported as CSV
+✅ Cleaned & filtered dataset exported as CSV
 
-* ✅ Dataset stored in Google Drive
+✅ Dataset stored in Google Drive
 
-* ✅ Shareable Drive link included in the notebook
+✅ Shareable Drive link included in the notebook
 
-* ✅ Fully executable Colab notebook (single run)
+✅ Fully executable Colab notebook (single run)
 
 # 🧠 Key Learnings
 
